@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Learning nodejs",
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "license": "ISC",
+  "author": "nikhil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
